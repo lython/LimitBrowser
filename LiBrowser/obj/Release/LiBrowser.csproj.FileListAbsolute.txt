@@ -1,0 +1,311 @@
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\TasotControl.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\TasotControl.g.i.cs
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.i.cs
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Background.png
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\TasotControl.g.i.cs
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.i.cs
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\LiBrowser\1.0\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Background.png
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\TasotControl.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.2\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Background.png
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\TasotControl.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\Limit\1.0.0.3\LiBrowser\LiBrowser\obj\Release\LoadingPage.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Background.png
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\LoadingPage.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\TasotControl.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.i.cs
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\Limit\1.0.0.4\LiBrowser\LiBrowser\obj\Release\UriPage.g.i.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\ApplicationIcon.png
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Background.png
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\LiBrowser.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\LiBrowser.pdb
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\AppManifest.xaml
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\LiBrowser.xap
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\App.g.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\LoadingPage.g.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\MainPage.g.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\TasotControl.g.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\UriPage.g.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\Views\WebView.g.cs
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.g.resources
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.pdb
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\XapCacheFile.xml
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\LiBrowser\LiBrowser\obj\Release\LiBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\LoadingPage.g.i.cs
+C:\Users\Administrator\Desktop\LiBrowser\LiBrowser\obj\Release\UriPage.g.i.cs

@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Animation;
+using System.Windows.Shapes;
+using Microsoft.Phone.Controls;
+
+namespace LuBrowser.Views
+{
+    public partial class WebView : PhoneApplicationPage
+    {   // 建立一个浏览历史的list,实现浏览过程中的后退前进
+        // 方法参看:
+        /* http://stackoverflow.com/questions/7873632/adding-back-and-forward-button-for-webbrowser-control */
+        // 这种方法只是简单的记住了浏览过的地址,后退前进都需要重新加载页面,保存浏览的页面比较复杂(乱码问题),以后慢慢研究
+        // 通过 InvokeScript 也可以实现，但是在重新加载页面后页面自动放大了
+
+        List<Uri> HistoryStack;
+        int HistoryStack_Index;
+        bool fromHistory;
+
+        public WebView()
+        {
+            InitializeComponent();
+            HistoryStack = new List<Uri>();
+            HistoryStack_Index = 0;
+            fromHistory = false;
+            luWebBrowser.Navigated += new EventHandler<System.Windows.Navigation.NavigationEventArgs>(luWebBrowser_Navigated);
+            luWebBrowser.Navigating += new EventHandler<NavigatingEventArgs>(luWebBrowser_Navigating);
+        }
+
+        // 保存浏览的地址,堆栈的数据结构
+        void luWebBrowser_Navigated(object sender, System.Windows.Navigation.NavigationEventArgs e)
+        {
+            if (!fromHistory)
+            {
+                if (HistoryStack_Index < HistoryStack.Count)
+                {
+                    HistoryStack.RemoveRange(HistoryStack_Index, HistoryStack.Count - HistoryStack_Index);
+                }
+                HistoryStack.Add(e.Uri);
+                HistoryStack_Index += 1;
+               
+            }
+            fromHistory = false;
+        }
+
+        // 接受自 MainPage 的网址
+        public string site { get; set; }
+
+       
+        private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
+        {
+              luWebBrowser.Navigate(new Uri(site, UriKind.Absolute));
+        }
+
+        // 进度条
+        private void luWebBrowser_Navigating(object sender, NavigatingEventArgs e)
+        {
+            progressBar.Visibility = Visibility.Visible;
+        }
+
+        private void luWebBrowser_LoadCompleted(object sender, System.Windows.Navigation.NavigationEventArgs e)
+        {
+            progressBar.Visibility = Visibility.Collapsed;
+        }
+
+        // 后退
+        private void backUri_Click(object sender, EventArgs e)
+        {
+            if (HistoryStack_Index > 1)
+            {
+                HistoryStack_Index -= 1;
+                fromHistory = true;
+                luWebBrowser.Navigate(HistoryStack[HistoryStack_Index - 1]);
+               
+            }
+        }
+        // 前进
+        private void forwardUri_Click(object sender, EventArgs e)
+        {
+            if (HistoryStack_Index < HistoryStack.Count)
+            {
+                HistoryStack_Index += 1;
+                fromHistory = true;
+                luWebBrowser.Navigate(HistoryStack[HistoryStack_Index - 1]);
+               
+            }
+        }
+
+        
+
+    
+        
+    }
+}

@@ -1,0 +1,87 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="LiBrowser.Views.WebView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="728" d:DesignWidth="480"
+    shell:SystemTray.Opacity="1"
+    shell:SystemTray.IsVisible="False" Loaded="PhoneApplicationPage_Loaded" BackKeyPress="Page_BackKeyPress">
+
+    <phone:PhoneApplicationPage.Projection>
+        <PlaneProjection x:Name="planeProjection"/>
+    </phone:PhoneApplicationPage.Projection>
+
+    <phone:PhoneApplicationPage.Triggers>
+        <EventTrigger>
+            <BeginStoryboard>
+                <Storyboard>
+                    <DoubleAnimation Storyboard.TargetName="planeProjection"
+                                     Storyboard.TargetProperty="RotationY"
+                                     From="-180" To="0" Duration="0:0:1" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </phone:PhoneApplicationPage.Triggers>
+    
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <StackPanel>
+            <!--ActionIcon="/LiBrowser;component/Images/action.clear.png"
+            ActionIconTapped="uriTextBox_ActionIconTapped"-->
+            <toolkit:PhoneTextBox Name="uriTextBox" Hint="请输入网址"
+                                  GotFocus="uriTextBox_GotFocus" KeyUp="uriTextBox_KeyUp">
+                <TextBox.InputScope>
+                    <InputScope>
+                        <InputScope.Names>
+                            <InputScopeName NameValue="Url"/>
+                        </InputScope.Names>
+                    </InputScope>
+                </TextBox.InputScope>
+            </toolkit:PhoneTextBox>
+            <phone:WebBrowser Name="liWebBrowser" Height="660" Width="480" IsScriptEnabled="True"
+                              LoadCompleted="liWebBrowser_LoadCompleted" NavigationFailed="liWebBrowser_NavigationFailed" />
+        </StackPanel>
+        <!--<toolkit:PerformanceProgressBar IsIndeterminate="True" HorizontalAlignment="Left" Name="progressBar" VerticalAlignment="Top" Width="480" Visibility="Collapsed"/>-->
+        <ProgressBar Value="100" Maximum="100" IsIndeterminate="True" HorizontalAlignment="Left" Name="progressBar" VerticalAlignment="Top" Width="480" Visibility="Collapsed" />
+    </Grid>
+
+    <!--<Grid x:Name="LayoutRoot" Background="Transparent">
+        <phone:WebBrowser Name="liWebBrowser" LoadCompleted="liWebBrowser_LoadCompleted" NavigationFailed="liWebBrowser_NavigationFailed"/>
+        <ProgressBar Value="10" Maximum="10" IsIndeterminate="True" HorizontalAlignment="Left" Name="progressBar" VerticalAlignment="Top" Width="480" Visibility="Collapsed"></ProgressBar>
+        <TextBox Name="uriTextBox" GotFocus="uriTextBox_GotFocus" KeyUp="uriTextBox_KeyUp">
+            <TextBox.InputScope>
+                <InputScope>
+                    <InputScope.Names>
+                        <InputScopeName NameValue="Url"/>
+                    </InputScope.Names>
+                </InputScope>
+            </TextBox.InputScope>
+        </TextBox>
+    </Grid>-->
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" Opacity="1" StateChanged="ApplicationBar_StateChanged">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.left.png" Text="后退" x:Name="backUri" Click="backUri_Click" />
+            <!--<shell:ApplicationBarIconButton IconUri="/Images/appbar.refresh.png" Text="刷新" x:Name="refreshUri" Click="refreshUri_Click" />-->
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.right.png" Text="前进" x:Name="forwardUri" Click="forwardUri_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.fullscreen.png" Text="全屏" x:Name="newUri" Click="newUri_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.win.png" Text="主页" x:Name="homePage" Click="homePage_Click" >
+            </shell:ApplicationBarIconButton>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem x:Name="refreshPage" Text="刷新" Click="refreshUri_Click"/>
+                <!--<shell:ApplicationBarMenuItem x:Name="homePage" Text="回到主页" Click="homePage_Click"/>-->
+                <shell:ApplicationBarMenuItem x:Name="exit" Text="退出" Click="exit_Click"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>
